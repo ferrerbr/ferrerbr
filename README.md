@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack Jr. con experi
 ### 🔧 Tecnologías y Herramientas
 - Front End: HTML5, CSS3, Bootstrap 4, ECMAScript 6 (JS)
 - Back End: Java, Spring Boot
-- Bases de Datos: MySQL, NoSQL
+- Bases de Datos: MySQL
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 
