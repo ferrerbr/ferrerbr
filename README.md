@@ -14,8 +14,6 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack Jr. con experi
 - Control de Versiones: Git, GitHub
 - Metodologías: Scrum
 
-### 🚀 Objetivo
-Mi objetivo es desarrollar una carrera a largo plazo en el área de Data Science, aplicando mis conocimientos y habilidades en la creación de soluciones innovadoras y eficientes.
 
 ### 📫 Contáctame
 - [LinkedIn](www.linkedin.com/in/brandonperezferrer)
