@@ -3,7 +3,7 @@
 
 ¡HOLA MUNDO !!!  Soy Brandon
 
-### Desarrollador Full Stack Jr. | Apasionado por las Bases de Datos y la Programación
+### Desarrollador Full Stack Jr. 
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack Jr. con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML5, CSS3, Bootstrap, Java, Spring Boot y MySQL. Actualmente, estoy profundizando en bases de datos SQL y NoSQL, y siempre estoy buscando aprender y mejorar mis habilidades en el mundo del desarrollo de software.
 
