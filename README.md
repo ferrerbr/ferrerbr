@@ -5,8 +5,7 @@
 
 ### Desarrollador Full Stack Jr. 
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack Jr. con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML5, CSS3, Bootstrap, Java, Spring Boot y MySQL. Actualmente, estoy profundizando en bases de datos SQL y NoSQL, y siempre estoy buscando aprender y mejorar mis habilidades en el mundo del desarrollo de software.
-
+Bienvenido a mi perfil de GitHub. Soy un desarrollador Full Stack Jr. con experiencia en el desarrollo de aplicaciones web utilizando tecnologías como HTML5, CSS3, Bootstrap, Java, Spring Boot y MySQL. 
 ### 🔧 Tecnologías y Herramientas
 - Front End: HTML5, CSS3, Bootstrap 4, ECMAScript 6 (JS)
 - Back End: Java, Spring Boot
